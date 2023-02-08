@@ -1,0 +1,3 @@
+- In real solution the interface should be in a different assembly than the implementation 
+- Assumed an initial direction instead of throwing an error
+- Assumed default 0 coordinates instead of throwing errors
